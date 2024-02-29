@@ -306,6 +306,7 @@ int main()
 	}
 	default:
    		{
+		printf("Please Enter Valid Option(from 0-15)");
 		printf("enter the menu number again\n");
 		break;
 		}
